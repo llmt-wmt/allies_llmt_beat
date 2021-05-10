@@ -8,9 +8,10 @@
 ## Installation
 ### Data
 Prepare the data by running the `prepare_data.bash` script:
-    ```
-    bash prepare_data.bash
-    ```
+
+```
+bash prepare_data.bash
+```
 
 ### LLMT system
 1. Install the `beat_allies` conda environment with required packages:
@@ -20,7 +21,7 @@ Prepare the data by running the `prepare_data.bash` script:
 
 2. Make sure your `beat_allies` conda environment is activated. If not, then run:
     ```
-    source activate beat_allies_2021
+    source activate beat_allies
     ```
 
 3. Before running the experiment for the first time:
