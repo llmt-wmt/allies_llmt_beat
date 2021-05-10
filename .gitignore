@@ -1,3 +1,6 @@
 *.swp
 beat/cache*
-
+data/en-de.tgz
+data/en-de/
+data/en-fr.tgz
+data/en-fr/
