@@ -1,8 +1,12 @@
-# allies_llmt_beat
-Lifelong Learning Machine Translation with the BEAT platform
+## Lifelong Learning Machine Translation with the BEAT platform
 
-Website: <a href='http://statmt.org/wmt20/lifelong-learning-task.html'>LLMT @ WMT 2020</a>
+# Description
+Website: <a href='http://statmt.org/wmt21/lifelong-learning-task.html'>LLMT @ WMT 2021</a>
 
 Evaluation plan: <a href='LifelongLearningMT_EvaluationPlan.pdf'>download</a>
 
+# Installation
+## Data
 
+
+## LLMT system
