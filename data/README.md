@@ -1,6 +1,6 @@
-## Data for the ALLIES Lifelong Learning Machine Translation evaluation campaign
+# Data for the ALLIES Lifelong Learning Machine Translation evaluation campaign
 
-# Description
+## Description
 This dataset contains the documents from Europarl v10 and NewsCommentary v15.
 Each document has been renamed to the following format:
 **corpus**-**date**-**time1**-**time2**-**suffix**
@@ -13,7 +13,7 @@ Each document has been renamed to the following format:
 For Europarl, the renaming simply consists in merging year, month and day values from original name and add a '**time1**' tag to avoid multiple files with same timestamps.
 For NewsCommentary, the timestamps correspond to the 'article:published_time' extracted from the original html files.
 
-# Recreating the data
+## Recreating the data
 
 Recreate the tgz file then extract it:
 ### For EN-FR:
